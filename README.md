@@ -21,7 +21,7 @@ author = {Kausar, Soufia and
 	Mehmood, Muhammad Amir},
 title = {ProSOUL: A Framework to Identify Propaganda from Online Urdu Content},
 Journal = {IEEE ACCESS}
-}'
+}`
 
 # Authors
 * Soufia Kausar
