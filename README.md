@@ -14,13 +14,14 @@ Two text files are provided, one for propaganda and other for non-propaganda. Ev
 
 
 # Credits
-@article{ProSOUL,
+
+`@article{ProSOUL,
 author = {Kausar, Soufia and
 	Tahir, Bilal and
 	Mehmood, Muhammad Amir},
 title = {ProSOUL: A Framework to Identify Propaganda from Online Urdu Content},
 Journal = {IEEE ACCESS}
-}
+}'
 
 # Authors
 * Soufia Kausar
