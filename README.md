@@ -1,6 +1,6 @@
 # ProSOUL
 
-ProSOUL (__P__ropaganda __S__potting in __O__nline __U__rdu __L__anguage) framework to identify propaganda content in the Urdu language.
+ProSOUL (**P**ropaganda **S**potting in **O**nline **U**rdu **L**anguage) framework to identify propaganda content in the Urdu language.
 
 
 # Dataset
