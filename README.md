@@ -19,7 +19,7 @@ To use the Urdu LIWC dictionary python, follwoing steps can be followed:
 
 * Intall the LIWC library using pip with the command _pip install liwc_
 * Import and read the dicitonary using following code.
-`import liwc
+`<br/>import liwc<br/>
 parse, category_names = liwc.load_token_parser('LIWC_URDU.dic')
 ` 
 * _parse_ will contain the words and the categories assigned to these words will be stored in _category_names_. 
